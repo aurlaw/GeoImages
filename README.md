@@ -3,6 +3,8 @@
 React Native Sample App for loading images based on location (Flickr)
 
 
+#Still in progress#
+
 ## Prerequisites ##
 
 * Xcode 7
