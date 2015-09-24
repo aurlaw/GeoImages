@@ -1,0 +1,19 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+use_frameworks!
+
+target 'GeoImages-ObjC' do
+	pod 'SDWebImage', '~> 3.7'
+	pod 'Mantle', '~> 2.0'
+	pod 'ReactiveCocoa', '2.5.0'
+
+end
+
+target 'GeoImages-ObjCTests' do
+
+end
+
+target 'GeoImages-ObjCUITests' do
+
+end
+
